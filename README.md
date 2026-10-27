@@ -151,7 +151,14 @@ env.close()
 
 ## Output
 
+#### For Gamma = 0.99
+
 <img width="892" height="369" alt="image" src="https://github.com/user-attachments/assets/7f718de6-9a94-4415-b3e3-91f6d4f20758" />
+
+
+#### For Gamma = 0.9
+
+<img width="759" height="363" alt="image" src="https://github.com/user-attachments/assets/3f779eef-7003-4f03-989f-c96647b6a219" />
 
 ---
 
